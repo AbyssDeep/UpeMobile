@@ -8,8 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "mdbvue": "file:mdb/mdbvue-6.5.0.tgz",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
     "vue-router": "^3.1.5",
     "vuex": "^3.1.2"
   },

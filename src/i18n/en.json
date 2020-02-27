@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "forgot-password": "I forgot my password!",
+      "obtain-account": "How I obtain an account?"
+    }
+  }
+}

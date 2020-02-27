@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesion",
+      "username": "Nombre de Usuario",
+      "password": "Contraseña",
+      "forgot-password": "Olvide mi contraseña!",
+      "obtain-account": "¿Como obtengo una cuenta?"
+    }
+  }
+}
